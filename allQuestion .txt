@@ -1,0 +1,24 @@
+Basic Level:
+What is React.js?
+What are the key features of React?
+Explain the Virtual DOM in React.
+What is JSX in React?
+What are components in React?
+Intermediate Level:
+Differentiate between state and props in React.
+How does React handle data binding?
+What is the significance of keys in React lists?
+Explain the lifecycle methods in React.
+What are Higher Order Components (HOCs) in React?
+Advanced Level:
+What are controlled components in React forms?
+Explain the concept of context in React.
+Describe React Hooks and their advantages.
+How does React handle performance optimization?
+What is Redux, and how does it work with React?
+Expert Level:
+Discuss the differences between React class components and functional components.
+What are the differences between PureComponent and Component in React?
+Explain React Fiber and its role in the React rendering process.
+How does server-side rendering (SSR) work in React?
+Describe some common anti-patterns in React and how to avoid them.
